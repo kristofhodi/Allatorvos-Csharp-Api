@@ -1,0 +1,10 @@
+@AllatorvosApi_HostAddress = http://localhost:5252
+
+GET {{AllatorvosApi_HostAddress}}/rendelesek
+Accept: application/json
+
+###
+GET {{AllatorvosApi_HostAddress}}/bevetel/1
+Accept: application/json
+
+###
